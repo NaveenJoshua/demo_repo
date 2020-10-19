@@ -17,4 +17,6 @@ soup
 ice cream
 sugar
 flour
-
+laptop
+orange
+beans
